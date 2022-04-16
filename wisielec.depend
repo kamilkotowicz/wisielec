@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1578833480 source:c:\users\kamil\desktop\wisielec\wisielec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1578837080 source:c:\users\kamil\documents\stare rzeczy\wisielec\wisielec\wisielec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1578833480 source:c:\users\kamil\documents\programiki\wisielec\wisielec\wisielec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
